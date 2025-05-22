@@ -14,7 +14,7 @@ A full-stack app to manage todos, summarize them using OpenAI, and send the summ
 ```bash
 cd backendd
 npm install
-cp .env.example .env
+cp .env
 # Fill in your OpenAI key and Slack webhook URL
 node index.js
 ```
