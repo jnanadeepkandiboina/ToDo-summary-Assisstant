@@ -4,7 +4,7 @@ A full-stack app to manage todos, summarize them using OpenAI, and send the summ
 ## Tech Stack
 - Frontend: React
 - Backend: Node.js + Express
-- Database: (In-memory, but use Supabase for production)
+- Database: postgresql
 - LLM: OpenAI GPT
 - Slack: Webhook Integration
 
